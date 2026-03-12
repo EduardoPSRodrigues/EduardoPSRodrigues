@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:8e2de2&height=230&section=header&text=Eduardo%20Rodrigues&fontSize=42&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0218D6,50:3A0CA3,100:2E03AA&height=230&section=header&text=Eduardo%20Rodrigues&fontSize=42&fontColor=ffffff&animation=fadeIn)
 
 # 👋 Fala galera, bem-vindo ao meu GitHub!
 
@@ -66,6 +66,4 @@ Meu objetivo é **ensinar tecnologia de forma simples e prática**, ajudando pes
 
 </p>
 
-
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4facfe&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2E03AA,50:3A0CA3,100:0218D6&height=120&section=footer)
