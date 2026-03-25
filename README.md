@@ -46,8 +46,6 @@ Meu objetivo é **ensinar tecnologia de forma simples e prática**, ajudando pes
 
 # 🐍 Contribuições no GitHub
 
-![Snake animation](https://github.com/EduardoPSRodrigues/EduardoPSRodrigues/blob/output/github-contribution-grid-snake.svg)
-
 ![Snake animation](https://raw.githubusercontent.com/EduardoPSRodrigues/EduardoPSRodrigues/output/github-contribution-grid-snake.svg)
 
 
